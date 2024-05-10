@@ -1,4 +1,22 @@
 # AngularProject
+Hi, Dear
+
+My Gmail
+seastar8170@gmail.com
+
+
+
+My Skype 
+
+live:.cid.916b07bf9ce4fb6
+
+My telegram
+
+https://t.me/MonteSeaStar
+
+please add skype or telegram
+I would like to work with you more
+thank you
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
 
